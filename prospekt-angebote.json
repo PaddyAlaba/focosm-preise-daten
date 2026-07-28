@@ -1,5 +1,18 @@
 [
   {
+    "store": "LIDL",
+    "storeId": "lidl",
+    "title": "Lachende Familie macht Selfie, mit rotem Rabatt-Hinweis: 5.95€ Versandkosten sparen.",
+    "url": "https://www.lidl.de/c/newsletter-anmeldeseite/s10005754",
+    "image": "https://www.lidl.de/static/assets/2617_Insider_footer-banner-2164543.jpg",
+    "price": "5.95 € Versand sparen³²ᵃJetzt zum Newsletter anmeldenGutschein sichern!",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:31:53.778Z",
+    "branch": null,
+    "plz": null
+  },
+  {
     "store": "Rossmann",
     "storeId": "rossmann",
     "title": "Melitta Kaffee Auslese Klassisch gemahlen",
@@ -8,7 +21,9 @@
     "price": "Aktueller Artikelpreis:  5,99 €",
     "oldPrice": "9,29 €Ehemaliger Preis 9,29 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.119Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -16,10 +31,12 @@
     "title": "Nescafé Dolce Gusto Café au Lait Kaffeekapseln",
     "url": "https://www.rossmann.de/de/lebensmittel-nescafe-dolce-gusto-cafe-au-lait-kaffeekapseln/p/7613033174704",
     "image": "https://www.rossmann.de/media-neu/428/MAM_42810426/MAM_42810426_SHOP_IMAGE_2.0.png?quality=85&auto=webp&width=160&height=160&fit=bounds&format=webp&canvas=160%2C160",
-    "price": "Aktueller Artikelpreis:  3,99 €",
+    "price": "New Price 3,99 €",
     "oldPrice": "5,99 €Ehemaliger Preis 5,99 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.119Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -30,7 +47,9 @@
     "price": "Artikelpreis 13,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -41,7 +60,9 @@
     "price": "Artikelpreis 13,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -52,7 +73,9 @@
     "price": "Artikelpreis 1,59 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -63,7 +86,9 @@
     "price": "Artikelpreis 1,59 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -74,7 +99,9 @@
     "price": "Artikelpreis 5,55 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -85,7 +112,9 @@
     "price": "Artikelpreis 5,55 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -96,7 +125,9 @@
     "price": "Artikelpreis 2,49 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.585Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -107,7 +138,9 @@
     "price": "Artikelpreis 1,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -118,7 +151,9 @@
     "price": "Artikelpreis 1,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -129,7 +164,9 @@
     "price": "Artikelpreis 4,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -140,7 +177,9 @@
     "price": "Artikelpreis 6,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -148,10 +187,12 @@
     "title": "Perwoll Renew Colorwaschmittel Flüssig Blütenrausch 27 WL",
     "url": "https://www.rossmann.de/de/haushalt-perwoll-renew-colorwaschmittel-fluessig-bluetenrausch-27-wl/p/4015200033723",
     "image": "https://www.rossmann.de/media-neu/127/MAM_12780871/MAM_12780871_SHOP_IMAGE_2.0.png?quality=85&auto=webp&width=160&height=160&fit=bounds&format=webp&canvas=160%2C160",
-    "price": "Price 4,99 €",
+    "price": "Artikelpreis 4,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -162,7 +203,9 @@
     "price": "1.020 g (1kg = 5,38 €) / 12x85 g",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -173,7 +216,9 @@
     "price": "1.400 g (1kg = 3,92 €)",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -184,7 +229,9 @@
     "price": "Artikelpreis 2,65 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -195,7 +242,9 @@
     "price": "Artikelpreis 9,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.120Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -206,7 +255,9 @@
     "price": "Artikelpreis 9,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.121Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -217,7 +268,9 @@
     "price": "Artikelpreis 1,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.121Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -228,7 +281,9 @@
     "price": "Artikelpreis 4,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.121Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -239,7 +294,9 @@
     "price": "Artikelpreis 7,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.121Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -250,7 +307,9 @@
     "price": "Artikelpreis 9,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.121Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "Rossmann",
@@ -261,7 +320,9 @@
     "price": "3 Stück (1Stück = 2,00 €)",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:05:54.586Z"
+    "scrapedAt": "2026-07-28T12:32:09.121Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -272,7 +333,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,49 €*\n\n\n                                \n                                                                                                                \n                                            19,90 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -283,7 +346,9 @@
     "price": "6,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 8,49 €*\n\n\n                                \n                                                                                                                \n                                            13,98 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -294,7 +359,9 @@
     "price": "8,49 €\n                                    \n                                                                                                \n                            \n\n                                \n                                                                                                                \n                                            16,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -305,7 +372,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,99 €*\n\n\n                                \n                                                                                                                \n                                            4,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -316,7 +385,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,99 €*\n\n\n                                \n                                                                                                                \n                                            4,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -327,7 +398,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,99 €*\n\n\n                                \n                                                                                                                \n                                            5,04 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -338,7 +411,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,89 €*\n\n\n                                \n                                                                                                                \n                                            3,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -349,7 +424,9 @@
     "price": "0,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,19 €*\n\n\n                                \n                                                                                                                \n                                            1,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -360,7 +437,9 @@
     "price": "2,99 €\n                                    \n                                                                                                \n                            \n\n                                \n                                                                                                                \n                                            23,92 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -371,7 +450,9 @@
     "price": "11,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 14,49 €*\n\n\n                                \n                                                                                                                \n                                            17,13 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -382,7 +463,9 @@
     "price": "6,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 8,49 €*\n\n\n                                \n                                                                                                                \n                                            13,98 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -393,7 +476,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,49 €*\n\n\n                                \n                                                                                                                \n                                            19,90 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -404,7 +489,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,89 €*\n\n\n                                \n                                                                                                                \n                                            3,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -415,7 +502,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,89 €*\n\n\n                                \n                                                                                                                \n                                            3,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.076Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -426,7 +515,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,49 €*\n\n\n                                \n                                                                                                                \n                                            26,53 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -437,7 +528,9 @@
     "price": "12,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 15,99 €*\n\n\n                                \n                                                                                                                \n                                            12,99 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.179Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -448,7 +541,9 @@
     "price": "3,19 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 3,99 €*\n\n\n                                \n                                                                                                                \n                                            4,25 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -459,7 +554,9 @@
     "price": "8,49 €\n                                    \n                                                                                                \n                            \n\n                                \n                                                                                                                \n                                            16,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -470,7 +567,9 @@
     "price": "3,19 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 3,99 €*\n\n\n                                \n                                                                                                                \n                                            4,25 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -481,7 +580,9 @@
     "price": "10,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 14,99 €*\n\n\n                                \n                                                                                                                \n                                            15,70 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -492,7 +593,9 @@
     "price": "0,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,19 €*\n\n\n                                \n                                                                                                                \n                                            1,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -503,7 +606,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,99 €*\n\n\n                                \n                                                                                                                \n                                            4,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -514,7 +619,9 @@
     "price": "0,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,19 €*\n\n\n                                \n                                                                                                                \n                                            1,98 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -525,7 +632,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,49 €*\n\n\n                                \n                                                                                                                \n                                            19,90 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -536,7 +645,9 @@
     "price": "3,19 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 3,99 €*\n\n\n                                \n                                                                                                                \n                                            4,25 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -547,7 +658,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,49 €*\n\n\n                                \n                                                                                                                \n                                            19,90 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -558,7 +671,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,49 €*\n\n\n                                \n                                                                                                                \n                                            26,53 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -569,7 +684,9 @@
     "price": "1,99 €\n                                    \n                                                                                                \n                                Niedrigster Preis: 2,49 €*\n\n\n                                \n                                                                                                                \n                                            19,90 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -580,7 +697,9 @@
     "price": "2,99 €\n                                    \n                                                                                                \n                            \n\n                                \n                                                                                                                \n                                            26,94 €/kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "EDEKA",
@@ -591,370 +710,659 @@
     "price": "4,99 €\n                                    \n                                                                                                \n                            \n\n                                \n                                                                                                                \n                                            6,65 €/l",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:06:11.180Z"
+    "scrapedAt": "2026-07-28T12:32:26.077Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Müller",
+    "storeId": "mueller",
+    "title": "Pelikan Deckfarbkasten 735K/12",
+    "url": "https://www.mueller.de/p/pelikan-deckfarbkasten-735k-12-21238/",
+    "image": "https://www.mueller.de/assets/icons/check-circle-filled.svg",
+    "price": "7,49 € / 1 Stk.",
+    "oldPrice": "10,99 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:32:41.116Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Müller",
+    "storeId": "mueller",
+    "title": "FABER-CASTELL JUMBO Farbstift Grip 12er-Etui",
+    "url": "https://www.mueller.de/p/faber-castell-jumbo-farbstift-grip-12er-etui-870874/",
+    "image": "https://www.mueller.de/assets/icons/check-circle-filled.svg",
+    "price": "16,99 € / 1 Stk.",
+    "oldPrice": "21,95 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:32:41.116Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Müller",
+    "storeId": "mueller",
+    "title": "Pelikan Zeichenblock A3 sortiert 20 Blatt 100g/qm",
+    "url": "https://www.mueller.de/p/pelikan-zeichenblock-a3-sortiert-20-blatt-100g-qm-29368/",
+    "image": "https://www.mueller.de/assets/icons/check-circle-filled.svg",
+    "price": "2,99 € / 1 Stk.",
+    "oldPrice": "3,99 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:32:41.116Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Müller",
+    "storeId": "mueller",
+    "title": "Pritt Klebestift 43g",
+    "url": "https://www.mueller.de/p/pritt-klebestift-43g-21307/",
+    "image": "https://www.mueller.de/assets/icons/check-circle-filled.svg",
+    "price": "1,99 € / 43 g",
+    "oldPrice": "2,49 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:32:41.116Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Müller",
+    "storeId": "mueller",
+    "title": "PAPERZONE Collegeblock A4 Lineatur 28 80 Blatt",
+    "url": "https://www.mueller.de/p/paperzone-collegeblock-a4-lineatur-28-80-blatt-231603/",
+    "image": "https://www.mueller.de/assets/icons/check-circle-filled.svg",
+    "price": "1,99 € / 1 Stk.",
+    "oldPrice": "2,29 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:32:41.116Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Müller",
+    "storeId": "mueller",
+    "title": "FABER-CASTELL Farbstift Grip Colour 12er-Etui Karton",
+    "url": "https://www.mueller.de/p/faber-castell-farbstift-grip-colour-12er-etui-karton-827597/",
+    "image": "https://www.mueller.de/assets/icons/check-circle-filled.svg",
+    "price": "0,83 € / 1 Stk.",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:32:41.116Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Müller",
+    "storeId": "mueller",
+    "title": "PAPERZONE Collegeblock A4 Lineatur 27 80 Blatt",
+    "url": "https://www.mueller.de/p/paperzone-collegeblock-a4-lineatur-27-80-blatt-231604/",
+    "image": "https://www.mueller.de/assets/icons/check-circle-filled.svg",
+    "price": "1,99 € / 1 Stk.",
+    "oldPrice": "2,29 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:32:41.116Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Immun + Nacht direct Granulat-Sticks 20 St Doppelherz",
+    "url": "https://www.dm.de/p/d/3090223/doppelherz-immun-nacht-direct-granulat-sticks-20-st",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752492169/assets/pas/images/28c6eb19-bf7d-4976-8500-ef75503c5a39/doppelherz-immun-nacht-direct-granulat-sticks-20-st",
+    "price": "0,036 kg (81,94 € je 1 kg)",
+    "oldPrice": "Vorheriger Preis:3,95 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Acerola & Ingwer Sticks, 20 St sanotact",
+    "url": "https://www.dm.de/p/d/3088862/sanotact-acerola-und-ingwer-sticks-20-st",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763677849/assets/pas/images/1b087bfd-fd4d-41be-ab43-88ea6b24646b/sanotact-acerola-und-ingwer-sticks-20-st",
+    "price": "0,04 kg (98,75 € je 1 kg)",
+    "oldPrice": "Vorheriger Preis:4,95 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Gummitwist Sommerliebe  Profissimo",
+    "url": "https://www.dm.de/p/d/3102453/profissimo-gummitwist-sommerliebe",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772197538/assets/pas/images/dfc916bc-ff96-43c8-9a4a-805df0338c37/profissimo-gummitwist-sommerliebe",
+    "price": "1 St (3,95 € je 1 St)",
+    "oldPrice": "Vorheriger Preis:4,95 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Keramikschiffchen \"Ahoi\", beige Dekorieren & Einrichten",
+    "url": "https://www.dm.de/p/d/2972367/dekorieren-und-einrichten-keramikschiffchen-ahoi-beige",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475019/assets/pas/images/4f671cec-c7ec-4dc0-9c2f-949844839a0a/dekorieren-und-einrichten-keramikschiffchen-ahoi-beige",
+    "price": "1 St (1,95 € je 1 St)",
+    "oldPrice": "Vorheriger Preis:2,75 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Teekanne aus Glas, transparent/grün (1.000 ml) Dekorieren & Einrichten",
+    "url": "https://www.dm.de/p/d/3117682/dekorieren-und-einrichten-teekanne-aus-glas-transparent-gruen-1-000-ml",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777069088/assets/pas/images/1d91bccc-092e-42a8-b240-3bf7fc2117a2/dekorieren-und-einrichten-teekanne-aus-glas-transparent-gruen-1-000-ml",
+    "price": "1 St (8,95 € je 1 St)",
+    "oldPrice": "Vorheriger Preis:12,95 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Strickschuhe, grün, 3-6 Monate, 1 St",
+    "url": "https://www.dm.de/p/d/1657392/alana-strickschuhe-gruen-3-6-monate",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1746208641/assets/pas/images/ff8b2c03-d49a-48dc-855e-557a17b45bae/alana-strickschuhe-gruen-3-6-monate",
+    "price": "Aktueller Preis:5,50 €",
+    "oldPrice": "Vorheriger Preis:7,50 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Kinder Shampoo & Duschgel 2in1 Dino, 400 ml",
+    "url": "https://www.dm.de/p/d/3067902/saubaer-kinder-shampoo-und-duschgel-2in1-dino",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750926610/assets/pas/images/d4401d48-e966-4993-99e8-cfde3df15bce/saubaer-kinder-shampoo-und-duschgel-2in1-dino",
+    "price": "0,4 l (4,88 € je 1 l)",
+    "oldPrice": "Vorheriger Preis:2,75 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Saaten, Essbare Blüten Stadt Land blüht",
+    "url": "https://www.dm.de/p/d/1493909/stadt-land-blueht-saaten-essbare-blueten",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492386/assets/pas/images/fd37eca4-49a6-4dfc-88e4-a455004bcaad/stadt-land-blueht-saaten-essbare-blueten",
+    "price": "1 St (3,45 € je 1 St)",
+    "oldPrice": "Vorheriger Preis:4,95 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.704Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Kaffeebecher aus Steingut, grün/offwhite kariert (300 ml) dm home",
+    "url": "https://www.dm.de/p/d/3117675/dm-home-kaffeebecher-aus-steingut-gruen-offwhite-kariert-300-ml",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772930128/assets/pas/images/d0424588-8e14-4463-b736-e4a86c8731e1/dm-home-kaffeebecher-aus-steingut-gruen-offwhite-kariert-300-ml",
+    "price": "1 St (3,95 € je 1 St)",
+    "oldPrice": "Vorheriger Preis:4,95 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.705Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "dm-drogerie markt",
+    "storeId": "dm",
+    "title": "Kleid mit Waffel-Struktur, lila, Gr. 110, 1 St",
+    "url": "https://www.dm.de/p/d/3089272/alana-kleid-mit-waffel-struktur-lila-gr-110",
+    "image": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769098750/assets/pas/images/7f40934c-06d9-41c8-9fea-ea5716465ac9/alana-kleid-mit-waffel-struktur-lila-gr-110",
+    "price": "Aktueller Preis:6,90 €",
+    "oldPrice": "Vorheriger Preis:8,90 €",
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:33:12.705Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "BIO",
+    "title": "Bio-Obstsortiment 300 g, Mango",
     "url": "https://www.aldi-sued.de/produkt/bio-bio-obstsortiment-300-g-mango-000000000615419005",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/66cc9ed9-fc75-45dc-a3f2-bd911feb0d71/BioObstsortiment%20300%20g%20Mango",
     "price": "3,00 €²",
     "oldPrice": "3,69 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.270Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "COCA-COLA",
+    "title": "Sprite 1,25 l",
     "url": "https://www.aldi-sued.de/produkt/coca-cola-sprite-1-25-l-000000000202756003",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/2b6f679f-7272-4e4f-ba65-72f7be1cd64b/Sprite%20125%20l",
     "price": "+ 0,25 € Pfand EINWEG",
     "oldPrice": "1,59 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.270Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "GUT DREI EICHEN",
+    "title": "Genießer Schinken 80 g, Bauernschinken",
     "url": "https://www.aldi-sued.de/produkt/gut-drei-eichen-geniesser-schinken-80-g-bauernschinken-000000000202280003",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/e7eb5494-d782-4afb-9348-e2368860d2f9/Genieer%20Schinken%2080%20g%20Bauernschinken",
     "price": "0,99 €²",
     "oldPrice": "1,29 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.270Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "HARIBO",
+    "title": "Fruchtgummi 160 g, Saft Goldbären",
     "url": "https://www.aldi-sued.de/produkt/haribo-fruchtgummi-160-g-saft-goldbaeren-000000000496752001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/dc128dbc-1806-4368-95cc-d80846dd2992/Fruchtgummi%20160%20g%20Saft%20Goldbren",
     "price": "0,79 €²",
     "oldPrice": "1,19 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.270Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "SPEISEZEIT",
+    "title": "Steakhouse Pommes 750 g, Rustikal",
     "url": "https://www.aldi-sued.de/produkt/speisezeit-steakhouse-pommes-750-g-rustikal-000000000191475001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/e4eb8213-1d90-4104-b746-a759231b9b3b/Steakhouse%20Pommes%20750%20g%20Rustikal",
     "price": "1,00 €²",
     "oldPrice": "1,49 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.270Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "HELA",
+    "title": "Gewürzketchup 800 ml, Leicht scharf",
     "url": "https://www.aldi-sued.de/produkt/hela-gewuerzketchup-800-ml-leicht-scharf-000000000320022003",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/a34549e9-33f1-4bab-837c-735c6f0fa765/Gewrzketchup%20800%20ml%20Leicht%20scharf",
     "price": "1,99 €²",
     "oldPrice": "3,39 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.270Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "MUCCI",
+    "title": "Spezialitätenbecher 510 ml, Spaghetti",
     "url": "https://www.aldi-sued.de/produkt/mucci-spezialitaetenbecher-510-ml-spaghetti-000000000191479003",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/9ee865eb-091c-4966-916c-b70270bcc9e0/Spezialittenbecher%20510%20ml%20Spaghetti",
     "price": "1,39 €²",
     "oldPrice": "1,79 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.270Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "LAVAZZA",
+    "title": "Caffè Crema 1 kg, Classico",
     "url": "https://www.aldi-sued.de/produkt/lavazza-caffe-crema-1-kg-classico-000000000515321002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/c57d3e11-1950-4980-bbde-d195fe998339/Caff%20Crema%201%20kg%20Classico",
     "price": "(12,99 €/1 kg)",
     "oldPrice": "19,98 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "BON-RI",
+    "title": "Express-Reis pur 250 g, Langkornreis",
     "url": "https://www.aldi-sued.de/produkt/bon-ri-express-reis-pur-250-g-langkornreis-000000000194327001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/2ce0c59c-d9af-4d25-9cd4-39c7af0b7ba3/ExpressReis%20pur%20250%20g%20Langkornreis",
     "price": "1,00 €²",
     "oldPrice": "1,19 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "MAGNUM",
+    "title": "Eis Mandel 600 ml",
     "url": "https://www.aldi-sued.de/produkt/magnum-eis-mandel-600-ml-000000000567861001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/623e951e-263a-46ed-bd4e-1600dd4c7c6f/Eis%20Mandel%20600%20ml",
     "price": "2,79 €²",
     "oldPrice": "5,49 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "MUCCI",
+    "title": "Eis-Sandwich 720 ml, Classic",
     "url": "https://www.aldi-sued.de/produkt/mucci-eis-sandwich-720-ml-classic-000000000200226001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/27078a67-b673-4c0f-9025-1049304f573e/EisSandwich%20720%20ml%20Classic",
     "price": "1,39 €²",
     "oldPrice": "1,99 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "GRÜNLÄNDER",
+    "title": "Plus Pack 156 g, Mild Nussig",
     "url": "https://www.aldi-sued.de/produkt/gruenlaender-plus-pack-156-g-mild-nussig-000000000693411001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/c762ecb5-f401-4eed-9d42-e1846bdf3ebc/Plus%20Pack%20156%20g%20Mild%20Nussig",
     "price": "1,79 €²",
     "oldPrice": "2,99 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "AMBIANO",
-    "url": "https://www.aldi-sued.de/produkt/ambiano-elektrische-kuechenhelfer-stabmixer-beige-000000000717108001",
-    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/f6b35a5a-194f-410d-a4ba-0e81bcf53198/Elektrische%20Kchenhelfer%20Stabmixer%20Beige",
-    "price": "9,99 €¹",
-    "oldPrice": null,
-    "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
-  },
-  {
-    "store": "ALDI Süd",
-    "storeId": "aldi_s",
-    "title": "AMBIANO",
+    "title": "10-in-1- Profi für Eiscreme und Getränke",
     "url": "https://www.aldi-sued.de/produkt/ambiano-10-in-1-profi-fuer-eiscreme-und-getraenke-000000000000749018",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/dbfda49f-dcd0-4a8c-94e8-7228c172c937/10in1%20Profi%20fr%20Eiscreme%20und%20Getrnke",
     "price": "99,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "AMBIANO",
-    "url": "https://www.aldi-sued.de/produkt/ambiano-wasserkocher-oder-doppelschlitz-toaster-wasserkocher-beige-000000000721664001",
-    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/5d72ec20-8112-4490-97a1-35e18f3c3de6/Wasserkocher%20oder%20DoppelschlitzToaster%20Wasserkocher%20Beige",
+    "title": "Elektrische Küchenhelfer, Stabmixer, Beige",
+    "url": "https://www.aldi-sued.de/produkt/ambiano-elektrische-kuechenhelfer-stabmixer-beige-000000000717108001",
+    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/f6b35a5a-194f-410d-a4ba-0e81bcf53198/Elektrische%20Kchenhelfer%20Stabmixer%20Beige",
     "price": "9,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "AMBIANO",
+    "title": "Heißluftfritteuse, Beige",
     "url": "https://www.aldi-sued.de/produkt/ambiano-heissluftfritteuse-beige-000000000726345002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/754fe824-9059-490a-b03c-ba28f61e783b/Heiluftfritteuse%20Beige",
     "price": "39,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "CROFTON",
-    "url": "https://www.aldi-sued.de/produkt/crofton-glaeser-basic-standard-transparent-000000000733153001",
-    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/c51dccb0-c1aa-417a-9990-d9746f7fc618/Glser%20Basic%20Standard%20Transparent",
-    "price": "2,99 €¹",
+    "title": "Wasserkocher oder Doppelschlitz-Toaster, Wasserkocher, Beige",
+    "url": "https://www.aldi-sued.de/produkt/ambiano-wasserkocher-oder-doppelschlitz-toaster-wasserkocher-beige-000000000721664001",
+    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/5d72ec20-8112-4490-97a1-35e18f3c3de6/Wasserkocher%20oder%20DoppelschlitzToaster%20Wasserkocher%20Beige",
+    "price": "9,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "AMBIANO",
+    "title": "Elektrische Küchenhelfer, Milchaufschäumer, Beige",
     "url": "https://www.aldi-sued.de/produkt/ambiano-elektrische-kuechenhelfer-milchaufschaeumer-beige-000000000717108005",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/d7b8ce3f-06ee-4d35-aeac-c4229b717a17/Elektrische%20Kchenhelfer%20Milchaufschumer%20Beige",
     "price": "9,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "CROFTON",
-    "url": "https://www.aldi-sued.de/produkt/crofton-eisbox-sortiment-eisbox-blau-000000000725778001",
-    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/7e21e1a6-dab2-4fde-ac4c-1f7f6125be2b/EisboxSortiment%20Eisbox%20Blau",
-    "price": "1,99 €¹",
-    "oldPrice": null,
-    "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
-  },
-  {
-    "store": "ALDI Süd",
-    "storeId": "aldi_s",
-    "title": "CROFTON",
+    "title": "Icon Gläser, Biene",
     "url": "https://www.aldi-sued.de/produkt/crofton-icon-glaeser-biene-000000000723287001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/e31ee5da-b9a6-44ac-8661-68b9c4426eca/Icon%20Glser%20Biene",
     "price": "4,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "HOME CREATION",
-    "url": "https://www.aldi-sued.de/produkt/home-creation-muelleimer-30-l-blau-000000000726009001",
-    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/ea32ee1b-edbf-47c7-8476-b83387d7435a/Mlleimer%2030%20l%20Blau",
-    "price": "16,99 €¹",
-    "oldPrice": null,
-    "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
-  },
-  {
-    "store": "ALDI Süd",
-    "storeId": "aldi_s",
-    "title": "UP2FASHION",
-    "url": "https://www.aldi-sued.de/produkt/up2fashion-damen-oder-herren-sommerpantoletten-beige-37-000000000721580001",
-    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/7410f5b3-3533-41ed-a9e7-e50a5864a782/Damen%20oder%20Herren%20Sommerpantoletten%20Beige%2037",
-    "price": "4,99 €¹",
-    "oldPrice": null,
-    "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
-  },
-  {
-    "store": "ALDI Süd",
-    "storeId": "aldi_s",
-    "title": "ROMEO",
+    "title": "Kühlbett für Haustiere, Marineblau, Klein",
     "url": "https://www.aldi-sued.de/produkt/romeo-kuehlbett-fuer-haustiere-marineblau-klein-000000000715534001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/098e6abd-28f1-4f8b-9751-52a5d62bff1d/Khlbett%20fr%20Haustiere%20Marineblau%20Klein",
     "price": "19,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "UP2FASHION WOMEN",
-    "url": "https://www.aldi-sued.de/produkt/up2fashion-women-damen-bh-seamless-weiss-braun-s-000000000731757001",
-    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/7c00dbd1-359d-4b1f-b401-859cebddd11c/Damen%20BH%20Seamless%20WeiBraun%20S",
-    "price": "7,99 €¹",
+    "title": "Eisbox-Sortiment, Eisbox, Blau",
+    "url": "https://www.aldi-sued.de/produkt/crofton-eisbox-sortiment-eisbox-blau-000000000725778001",
+    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/7e21e1a6-dab2-4fde-ac4c-1f7f6125be2b/EisboxSortiment%20Eisbox%20Blau",
+    "price": "1,99 €¹",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Gläser Basic, Standard, Transparent",
+    "url": "https://www.aldi-sued.de/produkt/crofton-glaeser-basic-standard-transparent-000000000733153001",
+    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/c51dccb0-c1aa-417a-9990-d9746f7fc618/Glser%20Basic%20Standard%20Transparent",
+    "price": "2,99 €¹",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "ALDI Süd",
+    "storeId": "aldi_s",
+    "title": "Glas- Frischhaltedosen, 3er-Set, Rechteckig, Blau",
+    "url": "https://www.aldi-sued.de/produkt/crofton-glas-frischhaltedosen-3er-set-rechteckig-blau-000000000718432001",
+    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/c3eb08c6-e4f3-4aeb-981f-772f7c2279d3/Glas%20Frischhaltedosen%203erSet%20Rechteckig%20Blau",
+    "price": "5,99 €¹",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "ALDI Süd",
+    "storeId": "aldi_s",
+    "title": "Mülleimer 30 l, Blau",
+    "url": "https://www.aldi-sued.de/produkt/home-creation-muelleimer-30-l-blau-000000000726009001",
+    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/ea32ee1b-edbf-47c7-8476-b83387d7435a/Mlleimer%2030%20l%20Blau",
+    "price": "16,99 €¹",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "ALDI Süd",
+    "storeId": "aldi_s",
+    "title": "Damen oder Herren Sommerpantoletten, Beige, 37",
+    "url": "https://www.aldi-sued.de/produkt/up2fashion-damen-oder-herren-sommerpantoletten-beige-37-000000000721580001",
+    "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/7410f5b3-3533-41ed-a9e7-e50a5864a782/Damen%20oder%20Herren%20Sommerpantoletten%20Beige%2037",
+    "price": "4,99 €¹",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "ALDI Süd",
+    "storeId": "aldi_s",
+    "title": "Bio-Dinkel-Spaghetti 500 g",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-dinkel-spaghetti-500-g-000000000000486241",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/764f0bea-1ac0-44ec-b288-c3e16e7d656c/BioDinkelSpaghetti%20500%20g",
     "price": "1,45 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Wiener Würstchen 200 g",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-wiener-wuerstchen-200-g-000000000000498393",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/290442be-da37-4971-aafa-25554a2af035/BioWiener%20Wrstchen%20200%20g",
     "price": "3,19 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Vollkorn Basmatireis 500 g",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-vollkorn-basmatireis-500-g-000000000000494015",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/304a8a85-72ee-4710-9cda-728db1f94ba0/BioVollkorn%20Basmatireis%20500%20g",
     "price": "2,25 €²",
     "oldPrice": "2,35 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Dinkelpizza 315 g, Margherita",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-dinkelpizza-315-g-margherita-000000000570289001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/4b50000f-37a0-4ca1-8c6c-6af6cbc4b4ba/BioDinkelpizza%20315%20g%20Margherita",
     "price": "2,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Orangensaft 0,75 l",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-orangensaft-0-75-l-000000000000603836",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/0b72c593-669d-4147-8524-0bf840ca3c3c/BioOrangensaft%20075%20l",
     "price": "3,59 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.955Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Hafervollkorn-Riegel 105 g, Kokos",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-hafervollkorn-riegel-105-g-kokos-000000000505490003",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/04edfdad-e571-4907-805d-e5fffc55894d/BioHafervollkornRiegel%20105%20g%20Kokos",
     "price": "1,89 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Pesto 130 g, Rosso",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-pesto-130-g-rosso-000000000586749002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/a91b16fb-b4dc-4471-abab-1c41e3aead90/BioPesto%20130%20g%20Rosso",
     "price": "2,19 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Roggenvollkornbrot 375 g",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-roggenvollkornbrot-375-g-000000000000495763",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/22239497-6efa-43d9-8a82-64ed10c98539/BioRoggenvollkornbrot%20375%20g",
     "price": "0,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NUR NUR NATUR",
+    "title": "Bio-Landhähnchen Schenkelsteaks 350 g",
     "url": "https://www.aldi-sued.de/produkt/nur-nur-natur-bio-landhaehnchen-schenkelsteaks-350-g-000000000000525704",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/0fa50424-1fe8-4558-a5bf-cdc17d30d39d/BioLandhhnchen%20Schenkelsteaks%20350%20g",
     "price": "6,49 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -965,62 +1373,74 @@
     "price": "(1,49 €/1 kg)",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NATUR LIEBLINGE",
+    "title": "Trauben hell, kernlos 500 g",
     "url": "https://www.aldi-sued.de/produkt/natur-lieblinge-trauben-hell-kernlos-500-g-000000000000228798",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/a2810e84-a2c7-460f-8c54-937c1ec6da8f/Trauben%20hell%20kernlos%20500%20g",
     "price": "1,29 €²",
     "oldPrice": "1,89 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NATUR LIEBLINGE",
+    "title": "Heidelbeeren 500 g",
     "url": "https://www.aldi-sued.de/produkt/natur-lieblinge-heidelbeeren-500-g-000000000000229256",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/f8e68a2c-ca8c-4565-bc6c-ea30fc39308a/Heidelbeeren%20500%20g",
     "price": "2,99 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NATUR LIEBLINGE",
+    "title": "Äpfel Krumme Dinger 2 kg",
     "url": "https://www.aldi-sued.de/produkt/natur-lieblinge-aepfel-krumme-dinger-2-kg-000000000000230566",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/b9996a90-cc45-43df-8028-67e1e9a788cb/pfel%20Krumme%20Dinger%202%20kg",
     "price": "(1,00 €/1 kg)",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "NATUR LIEBLINGE",
+    "title": "Zuckeraprikosen 350 g",
     "url": "https://www.aldi-sued.de/produkt/natur-lieblinge-zuckeraprikosen-350-g-000000000000231358",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/c8d2e46a-57b2-4907-90e0-97bf014a8842/Zuckeraprikosen%20350%20g",
     "price": "1,59 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "KLEINE SCHÄTZE",
+    "title": "Avocado XL Stück",
     "url": "https://www.aldi-sued.de/produkt/kleine-schaetze-avocado-xl-stueck-000000000000587267",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/06671ae8-e5db-42ec-a5ac-47e63db7089e/Avocado%20XL%20Stck",
     "price": "1,49 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.271Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1031,7 +1451,9 @@
     "price": "1,79 €",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1042,7 +1464,9 @@
     "price": "0,44 €²",
     "oldPrice": "0,49 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1053,7 +1477,9 @@
     "price": "1,11 €/1 kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1064,7 +1490,9 @@
     "price": "0,59 €²",
     "oldPrice": "0,69 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1075,7 +1503,9 @@
     "price": "0,99 €/1 kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1086,29 +1516,35 @@
     "price": "4,38 €/1 kg",
     "oldPrice": null,
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "FARMER NATURALS",
+    "title": "Getrocknete Cranberries 200 g",
     "url": "https://www.aldi-sued.de/produkt/farmer-naturals-getrocknete-cranberries-200-g-000000000000304079",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/f4b4d283-a6d7-4824-88a9-1e04246baee9/Getrocknete%20Cranberries%20200%20g",
     "price": "1,59 €²",
     "oldPrice": "1,99 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "HOFBURGER",
+    "title": "Mozzarella, gerieben 250 g",
     "url": "https://www.aldi-sued.de/produkt/hofburger-mozzarella-gerieben-250-g-000000000000477319",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/bfe4959b-7f3d-4f9a-85c9-7ece30bfb6ff/Mozzarella%20gerieben%20250%20g",
     "price": "1,39 €²",
     "oldPrice": "1,79 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1119,40 +1555,48 @@
     "price": "4,29 €²",
     "oldPrice": "5,49 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "GUT BIO",
+    "title": "Bio-Apfelschorle 1 l",
     "url": "https://www.aldi-sued.de/produkt/gut-bio-bio-apfelschorle-1-l-000000000000607369",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/663cba07-178a-42b5-95d2-18ff17719396/BioApfelschorle%201%20l",
     "price": "+ 0,25 € Pfand EINWEG",
     "oldPrice": "1,29 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "CUCINA",
+    "title": "Lasagneblätter 500 g",
     "url": "https://www.aldi-sued.de/produkt/cucina-lasagneblaetter-500-g-000000000000635511",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/f4e8c2ca-4a4d-46b6-81da-9fb993c96f19/Lasagnebltter%20500%20g",
     "price": "1,00 €²",
     "oldPrice": "1,19 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "SUNSNACKS",
+    "title": "Salzbrezeln 250 g",
     "url": "https://www.aldi-sued.de/produkt/sunsnacks-salzbrezeln-250-g-000000000000684795",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/1ea37271-1626-4355-b3d2-4c757361aa36/Salzbrezeln%20250%20g",
     "price": "0,69 €²",
     "oldPrice": "0,89 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
@@ -1163,138 +1607,749 @@
     "price": "1,39 €²",
     "oldPrice": "2,19 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "SPEISEZEIT",
+    "title": "Steakhouse Pommes 750 g, Classic",
     "url": "https://www.aldi-sued.de/produkt/speisezeit-steakhouse-pommes-750-g-classic-000000000191475002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/cfbd586f-022a-4197-9b4e-d3f9a0dbb9a3/Steakhouse%20Pommes%20750%20g%20Classic",
     "price": "1,00 €²",
     "oldPrice": "1,49 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "BON-RI",
+    "title": "Express-Reis pur 250 g, Basmatireis",
     "url": "https://www.aldi-sued.de/produkt/bon-ri-express-reis-pur-250-g-basmatireis-000000000194327002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/1284724c-ad6f-402a-9892-1de93ab3c54d/ExpressReis%20pur%20250%20g%20Basmatireis",
     "price": "1,00 €²",
     "oldPrice": "1,19 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "LAVAZZA",
+    "title": "Crema e Aroma 1 kg",
     "url": "https://www.aldi-sued.de/produkt/lavazza-crema-e-aroma-1-kg-000000000000109299",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/1ca8507f-69c4-47d8-a5d6-9993bacfc37c/Crema%20e%20Aroma%201%20kg",
     "price": "(12,99 €/1 kg)",
     "oldPrice": "19,98 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "CORNY",
+    "title": "Müsli-Riegel 150 g, Schoko-Banane",
     "url": "https://www.aldi-sued.de/produkt/corny-muesli-riegel-150-g-schoko-banane-000000000182533002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/d62dfb1b-933c-4f96-b6c8-f10a24f2b1f2/MsliRiegel%20150%20g%20SchokoBanane",
     "price": "1,59 €²",
     "oldPrice": "2,39 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "CORNY",
+    "title": "Müsli-Riegel 150 g, Schoko",
     "url": "https://www.aldi-sued.de/produkt/corny-muesli-riegel-150-g-schoko-000000000182533003",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/f70a3ec0-2b09-4c83-9c32-8d3993ea8716/MsliRiegel%20150%20g%20Schoko",
     "price": "1,59 €²",
     "oldPrice": "2,39 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "CORNY",
+    "title": "Müsli-Riegel 120 g, Schoko light",
     "url": "https://www.aldi-sued.de/produkt/corny-muesli-riegel-120-g-schoko-light-000000000182533004",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/913e6746-ae25-43f0-855f-cbe8c13829f0/MsliRiegel%20120%20g%20Schoko%20light",
     "price": "1,59 €²",
     "oldPrice": "2,39 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "CORNY",
+    "title": "Müsli-Riegel 120 g, Milch Classic",
     "url": "https://www.aldi-sued.de/produkt/corny-muesli-riegel-120-g-milch-classic-000000000182533005",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/e45ace87-bb92-4c8d-aa43-2ef5eaee25e1/MsliRiegel%20120%20g%20Milch%20Classic",
     "price": "1,59 €²",
     "oldPrice": "2,39 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "COCA-COLA",
+    "title": "Mezzo Mix 1,25 l",
     "url": "https://www.aldi-sued.de/produkt/coca-cola-mezzo-mix-1-25-l-000000000202756001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/9d1fa6c0-53b3-4abf-b502-ed196c47a06a/Mezzo%20Mix%20125%20l",
     "price": "+ 0,25 € Pfand EINWEG",
     "oldPrice": "1,59 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "COCA-COLA",
+    "title": "Fanta Orange 1,25 l",
     "url": "https://www.aldi-sued.de/produkt/coca-cola-fanta-orange-1-25-l-000000000202756002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/ced00b94-627f-4ecf-ad02-28ba46a2895c/Fanta%20Orange%20125%20l",
     "price": "+ 0,25 € Pfand EINWEG",
     "oldPrice": "1,59 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "HELA",
+    "title": "Gewürzketchup 800 ml, Delikat",
     "url": "https://www.aldi-sued.de/produkt/hela-gewuerzketchup-800-ml-delikat-000000000320022004",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/597480ab-114d-4ded-a806-dd523782ade2/Gewrzketchup%20800%20ml%20Delikat",
     "price": "1,99 €²",
     "oldPrice": "3,39 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "HARIBO",
+    "title": "Konfekties 160 g",
     "url": "https://www.aldi-sued.de/produkt/haribo-konfekties-160-g-000000000449545001",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/17d88bf7-767c-4b05-b261-231f335df431/Konfekties%20160%20g",
     "price": "0,79 €²",
     "oldPrice": "1,19 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
   },
   {
     "store": "ALDI Süd",
     "storeId": "aldi_s",
-    "title": "HARIBO",
+    "title": "Schnecken 175 g",
     "url": "https://www.aldi-sued.de/produkt/haribo-schnecken-175-g-000000000449545002",
     "image": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/306/32834bd6-b652-4c24-838d-c9e3364d3e8c/Schnecken%20175%20g",
     "price": "0,79 €²",
     "oldPrice": "1,19 €",
     "discountPercent": null,
-    "scrapedAt": "2026-07-28T11:08:51.272Z"
+    "scrapedAt": "2026-07-28T12:39:10.956Z",
+    "branch": null,
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Captain Morgan Original Spiced Gold, je 0,7 l",
+    "url": "https://produkte.globus.de/getraenke/spirituosen/rum/77642000000470/captain-morgan-original-spiced-gold-je-0-7-l",
+    "image": "https://adminprodukte.globus.de/media/af/f0/14/1785015739/77642000000470_A050-B135-C733.jpg?1785188096",
+    "price": "8,99 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.431Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Tillman’s Toasty, je 280 g",
+    "url": "https://produkte.globus.de/tiefkuehlprodukte/tiefkuehl-fertiggerichte/fingerfood-snack/77900000025751/tillman-s-toasty-je-280-g",
+    "image": "https://adminprodukte.globus.de/media/45/7b/04/1785017759/77900000025751_A050-B014-C808.jpg?1785189050",
+    "price": "2,79 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.431Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Mini Babybel Halbfester Schnittkäse, je 5 x 20 g",
+    "url": "https://produkte.globus.de/milchprodukte-eier/kaese/kaesewuerfel-snacks/77635000000073/mini-babybel-halbfester-schnittkaese-je-5-x-20-g",
+    "image": "https://adminprodukte.globus.de/media/9e/d4/36/1785015383/77635000000073_A050-B317-C960.jpg?1785187926",
+    "price": "1,59 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.431Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Sagrotan Reiniger, je 600–750 ml",
+    "url": "https://produkte.globus.de/kueche-haushalt/reinigungsmittel/bad-kalkreiniger/77900000024915/sagrotan-reiniger-je-600-750-ml",
+    "image": "https://adminprodukte.globus.de/media/89/9b/ff/1785019927/77900000024915_A050-B117-C960.jpg?1785189875",
+    "price": "2,49 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.431Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Der Große Bauer Joghurt oder Trinkjoghurt, je 225–250 g",
+    "url": "https://produkte.globus.de/milchprodukte-eier/milch-molkereiprodukte/fruchtjoghurts/77635000000165/der-grosse-bauer-joghurt-oder-trinkjoghurt-je-225-250-g",
+    "image": "https://adminprodukte.globus.de/media/e3/d5/3b/1785015150/77635000000165_A050-B127-C603.jpg?1785187823",
+    "price": "0,39 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.431Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffeepads, Espresso",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/kaffeepads/4306188064626/kaffeepads-espresso",
+    "image": "https://adminprodukte.globus.de/media/96/55/a1/1781303805/4306188064626_713b0dec-cf3a-435a-b8e3-748237d67b8a.jpg?1781303805",
+    "price": "0,28 kg (17,11 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee-Pads, Mild",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/kaffeepads/4306188064688/kaffee-pads-mild",
+    "image": "https://adminprodukte.globus.de/media/7a/ca/8d/1784842531/4306188064688_c0d16ef8-beba-4570-b447-2b2b17f5f0d3.jpg?1784842531",
+    "price": "0,28 kg (17,11 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Bio Kaffee Crema, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188408598/bio-kaffee-crema-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/91/f6/75/1784239731/4306188408598_019f5ad7-9fef-747a-a7fb-724793a919d2.jpg?1784239731",
+    "price": "1 kg (13,95 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Caffè Crema, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188330325/caffe-crema-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/51/ea/2d/1771378189/4306188330325_0fbfd14a-0f0c-449e-87cf-497e3394f75a.jpg?1771378189",
+    "price": "1 kg (10,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Espresso, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188408635/espresso-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/4d/9b/3e/1772597969/4306188408635_4a097a8f-e42a-439f-9d30-9aefdad6b869.jpg?1772597969",
+    "price": "1 kg (10,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Espresso Gustoso ganze Bohne",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188414803/espresso-gustoso-ganze-bohne",
+    "image": "https://adminprodukte.globus.de/media/64/e8/d1/1772598024/4306188414803_769a1224-95fd-49e9-9478-6ba76fc02b57.jpg?1772598024",
+    "price": "1 kg (9,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee Gold, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188055655/kaffee-gold-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/47/5c/c2/1763625563/4306188055655_31b902f9-983a-4dcc-b12b-ce213e100484.jpg?1764746767",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee kräftig, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188414773/kaffee-kraeftig-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/83/69/1f/1784842478/4306188414773_b253fe73-caf6-40d6-a0a5-21647387e1c8.jpg?1784842478",
+    "price": "0,5 kg (8,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee Naturmild, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188055648/kaffee-naturmild-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/71/6b/73/1763022947/4306188055648_1bd2e47d-441b-481f-8e55-7ed0385f0e30.jpg?1784163231",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Röstkaffee, entcoffeiniert",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188431572/roestkaffee-entcoffeiniert",
+    "image": "https://adminprodukte.globus.de/media/12/3b/4f/1763023351/4306188431572_25d7f2f6-3963-411b-8b37-c5c698f95425.jpg?1763533371",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:40:32.432Z",
+    "branch": "chemnitz",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Captain Morgan Original Spiced Gold, je 0,7 l",
+    "url": "https://produkte.globus.de/getraenke/spirituosen/rum/77642000000470/captain-morgan-original-spiced-gold-je-0-7-l",
+    "image": "https://adminprodukte.globus.de/media/af/f0/14/1785015739/77642000000470_A050-B135-C733.jpg?1785188096",
+    "price": "8,99 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.922Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Tillman’s Toasty, je 280 g",
+    "url": "https://produkte.globus.de/tiefkuehlprodukte/tiefkuehl-fertiggerichte/fingerfood-snack/77900000025751/tillman-s-toasty-je-280-g",
+    "image": "https://adminprodukte.globus.de/media/45/7b/04/1785017759/77900000025751_A050-B014-C808.jpg?1785189050",
+    "price": "2,79 €*",
+    "oldPrice": "3,99 €",
+    "discountPercent": 25,
+    "scrapedAt": "2026-07-28T12:42:23.922Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Mini Babybel Halbfester Schnittkäse, je 5 x 20 g",
+    "url": "https://produkte.globus.de/milchprodukte-eier/kaese/kaesewuerfel-snacks/77635000000073/mini-babybel-halbfester-schnittkaese-je-5-x-20-g",
+    "image": "https://adminprodukte.globus.de/media/9e/d4/36/1785015383/77635000000073_A050-B317-C960.jpg?1785187926",
+    "price": "1,49 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.922Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Sagrotan Reiniger, je 600–750 ml",
+    "url": "https://produkte.globus.de/kueche-haushalt/reinigungsmittel/bad-kalkreiniger/77900000024915/sagrotan-reiniger-je-600-750-ml",
+    "image": "https://adminprodukte.globus.de/media/89/9b/ff/1785019927/77900000024915_A050-B117-C960.jpg?1785189875",
+    "price": "2,49 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.922Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Der Große Bauer Joghurt oder Trinkjoghurt, je 225–250 g",
+    "url": "https://produkte.globus.de/milchprodukte-eier/milch-molkereiprodukte/fruchtjoghurts/77635000000165/der-grosse-bauer-joghurt-oder-trinkjoghurt-je-225-250-g",
+    "image": "https://adminprodukte.globus.de/media/e3/d5/3b/1785015150/77635000000165_A050-B127-C603.jpg?1785187823",
+    "price": "0,39 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.922Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffeepads, Espresso",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/kaffeepads/4306188064626/kaffeepads-espresso",
+    "image": "https://adminprodukte.globus.de/media/96/55/a1/1781303805/4306188064626_713b0dec-cf3a-435a-b8e3-748237d67b8a.jpg?1781303805",
+    "price": "0,28 kg (17,11 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee-Pads, Mild",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/kaffeepads/4306188064688/kaffee-pads-mild",
+    "image": "https://adminprodukte.globus.de/media/7a/ca/8d/1784842531/4306188064688_c0d16ef8-beba-4570-b447-2b2b17f5f0d3.jpg?1784842531",
+    "price": "0,28 kg (17,11 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Bio Kaffee Crema, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188408598/bio-kaffee-crema-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/91/f6/75/1784239731/4306188408598_019f5ad7-9fef-747a-a7fb-724793a919d2.jpg?1784239731",
+    "price": "1 kg (13,95 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Caffè Crema, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188330325/caffe-crema-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/51/ea/2d/1771378189/4306188330325_0fbfd14a-0f0c-449e-87cf-497e3394f75a.jpg?1771378189",
+    "price": "1 kg (10,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Espresso, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188408635/espresso-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/4d/9b/3e/1772597969/4306188408635_4a097a8f-e42a-439f-9d30-9aefdad6b869.jpg?1772597969",
+    "price": "1 kg (10,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Espresso Gustoso ganze Bohne",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188414803/espresso-gustoso-ganze-bohne",
+    "image": "https://adminprodukte.globus.de/media/64/e8/d1/1772598024/4306188414803_769a1224-95fd-49e9-9478-6ba76fc02b57.jpg?1772598024",
+    "price": "1 kg (9,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee Gold, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188055655/kaffee-gold-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/47/5c/c2/1763625563/4306188055655_31b902f9-983a-4dcc-b12b-ce213e100484.jpg?1764746767",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee kräftig, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188414773/kaffee-kraeftig-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/83/69/1f/1784842478/4306188414773_b253fe73-caf6-40d6-a0a5-21647387e1c8.jpg?1784842478",
+    "price": "0,5 kg (8,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee Naturmild, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188055648/kaffee-naturmild-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/71/6b/73/1763022947/4306188055648_1bd2e47d-441b-481f-8e55-7ed0385f0e30.jpg?1784163231",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Röstkaffee, entcoffeiniert",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188431572/roestkaffee-entcoffeiniert",
+    "image": "https://adminprodukte.globus.de/media/12/3b/4f/1763023351/4306188431572_25d7f2f6-3963-411b-8b37-c5c698f95425.jpg?1763533371",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:42:23.923Z",
+    "branch": "essen",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Captain Morgan Original Spiced Gold, je 0,7 l",
+    "url": "https://produkte.globus.de/getraenke/spirituosen/rum/77642000000470/captain-morgan-original-spiced-gold-je-0-7-l",
+    "image": "https://adminprodukte.globus.de/media/af/f0/14/1785015739/77642000000470_A050-B135-C733.jpg?1785188096",
+    "price": "8,99 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Tillman’s Toasty, je 280 g",
+    "url": "https://produkte.globus.de/tiefkuehlprodukte/tiefkuehl-fertiggerichte/fingerfood-snack/77900000025751/tillman-s-toasty-je-280-g",
+    "image": "https://adminprodukte.globus.de/media/45/7b/04/1785017759/77900000025751_A050-B014-C808.jpg?1785189050",
+    "price": "2,79 €*",
+    "oldPrice": "3,99 €",
+    "discountPercent": 25,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Mini Babybel Halbfester Schnittkäse, je 5 x 20 g",
+    "url": "https://produkte.globus.de/milchprodukte-eier/kaese/kaesewuerfel-snacks/77635000000073/mini-babybel-halbfester-schnittkaese-je-5-x-20-g",
+    "image": "https://adminprodukte.globus.de/media/9e/d4/36/1785015383/77635000000073_A050-B317-C960.jpg?1785187926",
+    "price": "1,49 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Sagrotan Reiniger, je 600–750 ml",
+    "url": "https://produkte.globus.de/kueche-haushalt/reinigungsmittel/bad-kalkreiniger/77900000024915/sagrotan-reiniger-je-600-750-ml",
+    "image": "https://adminprodukte.globus.de/media/89/9b/ff/1785019927/77900000024915_A050-B117-C960.jpg?1785189875",
+    "price": "2,49 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Der Große Bauer Joghurt oder Trinkjoghurt, je 225–250 g",
+    "url": "https://produkte.globus.de/milchprodukte-eier/milch-molkereiprodukte/fruchtjoghurts/77635000000165/der-grosse-bauer-joghurt-oder-trinkjoghurt-je-225-250-g",
+    "image": "https://adminprodukte.globus.de/media/e3/d5/3b/1785015150/77635000000165_A050-B127-C603.jpg?1785187823",
+    "price": "0,39 €*",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffeepads, Espresso",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/kaffeepads/4306188064626/kaffeepads-espresso",
+    "image": "https://adminprodukte.globus.de/media/96/55/a1/1781303805/4306188064626_713b0dec-cf3a-435a-b8e3-748237d67b8a.jpg?1781303805",
+    "price": "0,28 kg (17,11 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee-Pads, Mild",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/kaffeepads/4306188064688/kaffee-pads-mild",
+    "image": "https://adminprodukte.globus.de/media/7a/ca/8d/1784842531/4306188064688_c0d16ef8-beba-4570-b447-2b2b17f5f0d3.jpg?1784842531",
+    "price": "0,28 kg (17,11 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Bio Kaffee Crema, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188408598/bio-kaffee-crema-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/91/f6/75/1784239731/4306188408598_019f5ad7-9fef-747a-a7fb-724793a919d2.jpg?1784239731",
+    "price": "1 kg (13,95 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Caffè Crema, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188330325/caffe-crema-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/51/ea/2d/1771378189/4306188330325_0fbfd14a-0f0c-449e-87cf-497e3394f75a.jpg?1771378189",
+    "price": "1 kg (10,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Espresso, ganze Bohnen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188408635/espresso-ganze-bohnen",
+    "image": "https://adminprodukte.globus.de/media/4d/9b/3e/1772597969/4306188408635_4a097a8f-e42a-439f-9d30-9aefdad6b869.jpg?1772597969",
+    "price": "1 kg (10,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Espresso Gustoso ganze Bohne",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-ganze-bohnen/4306188414803/espresso-gustoso-ganze-bohne",
+    "image": "https://adminprodukte.globus.de/media/64/e8/d1/1772598024/4306188414803_769a1224-95fd-49e9-9478-6ba76fc02b57.jpg?1772598024",
+    "price": "1 kg (9,99 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee Gold, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188055655/kaffee-gold-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/47/5c/c2/1763625563/4306188055655_31b902f9-983a-4dcc-b12b-ce213e100484.jpg?1764746767",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee kräftig, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188414773/kaffee-kraeftig-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/83/69/1f/1784842478/4306188414773_b253fe73-caf6-40d6-a0a5-21647387e1c8.jpg?1784842478",
+    "price": "0,5 kg (8,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Kaffee Naturmild, gemahlen",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188055648/kaffee-naturmild-gemahlen",
+    "image": "https://adminprodukte.globus.de/media/71/6b/73/1763022947/4306188055648_1bd2e47d-441b-481f-8e55-7ed0385f0e30.jpg?1784163231",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
+  },
+  {
+    "store": "Globus",
+    "storeId": "globus",
+    "title": "Röstkaffee, entcoffeiniert",
+    "url": "https://produkte.globus.de/brot-backwaren-fruehstueck/kaffee/bohnenkaffee-gemahlen/4306188431572/roestkaffee-entcoffeiniert",
+    "image": "https://adminprodukte.globus.de/media/12/3b/4f/1763023351/4306188431572_25d7f2f6-3963-411b-8b37-c5c698f95425.jpg?1763533371",
+    "price": "0,5 kg (10,98 € / 1 kg)",
+    "oldPrice": null,
+    "discountPercent": null,
+    "scrapedAt": "2026-07-28T12:54:50.502Z",
+    "branch": "wesel",
+    "plz": null
   }
 ]
